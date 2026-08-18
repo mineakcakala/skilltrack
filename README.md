@@ -1,11 +1,11 @@
-# SkillTrack
+﻿# SkillTrack
 
 Kişisel Beceri ve Öğrenme Takip Platformu. Öğrenmek veya geliştirmek istediğiniz becerileri
 kaydedin, hedef çalışma sürelerinizi belirleyin ve ilerlemenizi tek bir panelden takip edin.
 
 ## Canlı Demo
 
-> Netlify üzerinde yayınlandıktan sonra bağlantı buraya eklenecektir.
+[https://coruscating-cat-30afaa.netlify.app](https://coruscating-cat-30afaa.netlify.app)
 
 ## Ekran Görüntüsü
 
@@ -124,3 +124,4 @@ npm run preview
 
 Bu proje, bir Web Geliştirme & Yapay Zeka eğitim programı bitirme projesi olarak
 geliştirilmiştir.
+
